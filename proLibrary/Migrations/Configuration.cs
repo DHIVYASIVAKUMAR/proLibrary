@@ -1,8 +1,4 @@
-﻿
-
-
-
-namespace proLibrary.Migrations
+﻿namespace proLibrary.Migrations
 {
     using System;
     using System.Data.Entity;
@@ -22,7 +18,6 @@ namespace proLibrary.Migrations
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method
             //  to avoid creating duplicate seed data.
-
         }
     }
 }
